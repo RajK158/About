@@ -1,26 +1,26 @@
 # About
 Skills and tools
 **Frontend**
-Html
-Css
-Js
+Html,
+Css,
+Js,
 ReactJs
 **Backend**
-C
-C++
+C,
+C++,
 Core and Advance Java
 **Database**
-Sql
+Sql,
 CRUD operations
 
 **Tools and Ide**
-Coreldraw
-Photoshop
-Illustrator
-Visual Studio code
-Jdk
-Edit Plus
-Eclipse
-Sql Workbench
-Oracle
+Coreldraw,
+Photoshop,
+Illustrator,
+Visual Studio code,
+Jdk,
+Edit Plus,
+Eclipse,
+Sql Workbench,
+Oracle.
 
